@@ -8,7 +8,7 @@ export default function Projects() {
             <p className="text-gray-600 dark:text-gray-300 mt-2">
               A responsive portfolio website built with React, Vite, and Tailwind CSS.
             </p>
-            <a href="https://github.com/ramanlohar/myportfolio" className="text-blue-500 hover:text-blue-400 transition duration-300 mt-3 inline-block">
+            <a href="https://github.com/ramanlohar/portfolio-website" className="text-blue-500 hover:text-blue-400 transition duration-300 mt-3 inline-block">
               View Project →
             </a>
           </div>

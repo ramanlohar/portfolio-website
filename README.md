@@ -1,12 +1,49 @@
-# React + Vite
+# 🌐 Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **responsive** and **modern** portfolio website built using **React, Vite, and Tailwind CSS**. This project showcases my skills, projects, and contact information in a sleek and interactive manner.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **Fast & Optimized**: Built with Vite for lightning-fast performance.
+- **Responsive Design**: Works seamlessly on all devices.
+- **Dark Mode Support**: Adapts to the user's system theme.
+- **Project Showcase**: Displays my recent projects.
+- **Contact Section**: Easy ways to reach out.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend**: React, Vite, Tailwind CSS
+- **Deployment**: Vercel / Netlify / GitHub Pages
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
+> _Include a few screenshots of your portfolio website_
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Installation & Usage
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/ramanlohar/portfolio-website.git
+   cd portfolio-website
+   ```
+2. **Install dependencies**
+   ```sh
+   npm install
+   ```
+3. **Run the development server**
+   ```sh
+   npm run dev
+   ```
+4. **Build for production**
+   ```sh
+   npm run build
+   ```
+
+## 🌍 Live Demo
+> _[View Live Project](https://your-portfolio-link.com)_
+
+## 📬 Contact Me
+- **Email**: [ramanlohar11@gmail.com](mailto:ramanlohar11@gmail.com)
+- **GitHub**: [github.com/ramanlohar](https://github.com/ramanlohar)
+- **LinkedIn**: [linkedin.com/in/ramanlohar](https://linkedin.com/in/ramanlohar)
+
+---
+### ⭐ Don't forget to star this repository if you found it useful!
+
